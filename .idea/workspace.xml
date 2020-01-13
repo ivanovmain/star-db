@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d555654-e0e5-4096-b907-0b552ec85ce3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/star/src/components/error-boundry/error-boundry.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/error-boundry/error-boundry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/error-boundry/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/error-indicator/death-star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/error-indicator/error-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/error-indicator/error-indicator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/error-indicator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/item-page/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/item-page/item-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/item-page/item-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/row/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/row/row.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/row/row.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/spinner/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/spinner/spinner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star/src/components/spinner/spinner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/star/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/star/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/star/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/star" />
+  </component>
+  <component name="ProjectId" id="1VeQqsYs7J1kwIG24djrOgeAKdw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Code\starv2\star\src\components\error-indicator" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d555654-e0e5-4096-b907-0b552ec85ce3" name="Default Changelist" comment="" />
+      <created>1577611274904</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577611274904</updated>
+      <workItem from="1577611276617" duration="2908000" />
+      <workItem from="1577854989392" duration="3431000" />
+      <workItem from="1578108740711" duration="2072000" />
+      <workItem from="1578129356263" duration="7696000" />
+      <workItem from="1578146361755" duration="4898000" />
+      <workItem from="1578368972581" duration="3844000" />
+      <workItem from="1578394681430" duration="4452000" />
+      <workItem from="1578467712390" duration="631000" />
+      <workItem from="1578493961797" duration="775000" />
+      <workItem from="1578574695570" duration="4454000" />
+      <workItem from="1578657044019" duration="6149000" />
+      <workItem from="1578716736058" duration="17900000" />
+      <workItem from="1578757386807" duration="552000" />
+      <workItem from="1578802638500" duration="17905000" />
+      <workItem from="1578921384871" duration="2984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
